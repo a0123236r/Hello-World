@@ -9,3 +9,5 @@
 4. show all the tcp network connect : netstat 
 
 5. show users in computer : net localgroup users
+
+6. query stock info URL : http://hq.sinajs.cn/list=s_sh000001,s_sz399001
